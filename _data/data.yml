@@ -70,13 +70,13 @@ projects:
     title: Projects
     intro: >
     assignments:
-      - title: Velocity
+      - title: Extreme Life
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "The only website you will need to buy accesories for your extreme adventures"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Multimedia application
+        link: "#https://scratch.mit.edu/projects/593350398/"
+        tagline: "A simple app for people to train in their geography,math skills and also have some fun."
 
 publications:
     title: Publications
