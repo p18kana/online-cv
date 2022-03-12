@@ -55,17 +55,13 @@ experiences:
       time: 2022 - Present
       company: Nikos Athanasiadis 
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        An accountant is a professional who is responsible for keeping and interpreting financial records.
+        Most accountants are responsible for a wide range of finance-related tasks, either for individual
+        clients or for larger businesses and organizations employing them.
+          - Ensuring the accuracy of financial documents, as well as their compliance with relevant laws and regulations
+          - Preparing and maintaining important financial reports
+          - Preparing tax returns and ensuring that taxes are paid properly and on time
+          - Evaluating financial operations to recommend best practices, identify issues and strategize solutions, and help organizations run efficiently
 projects:
     title: Projects
     intro: >
